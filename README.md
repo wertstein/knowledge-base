@@ -3,6 +3,11 @@
 ## 🔬 Computer Science
 
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
+
+  **📺 Video:**
+
+  [![Core Design Principles for Software Developers](http://img.youtube.com/vi/llGgO74uXMI/0.jpg)](https://www.youtube.com/watch?v=llGgO74uXMI)
+
 - [Refactoring.Guru](https://refactoring.guru/)
 
 ## 💛 JavaScript
@@ -35,6 +40,10 @@
 
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo&t=3s)
 
+  **📺 Video:**
+
+  [![Docker Tutorial for Beginners](http://img.youtube.com/vi/fqMOX6JJhGo/0.jpg)](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
 ### 🌿 Git
 
 - [Git Tutorials and Workflows - Atlassian](https://www.atlassian.com/git)
@@ -64,6 +73,11 @@
 ### ⚛️ React
 
 - [Learn React 18 with Redux Toolkit – Full Tutorial for Beginners](https://www.youtube.com/watch?v=2-crBg6wpp0)
+
+  **📺 Video:**
+
+  [![Learn React 18 with Redux Toolkit](http://img.youtube.com/vi/2-crBg6wpp0/0.jpg)](https://www.youtube.com/watch?v=2-crBg6wpp0)
+
 - [React - The Complete Guide (incl Redux) - Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 - [Practical React Query - TkDodo Blog](https://tkdodo.eu/blog/practical-react-query)
 - [Web Dev Simplified - YouTube Channel](https://www.youtube.com/@WebDevSimplified)
@@ -78,6 +92,10 @@
 ## 📦 Nx Monorepos
 
 - [Nx Tutorial Video](https://www.youtube.com/watch?v=ZAO0yXupIIE)
+
+  **📺 Video:**
+
+  [![Nx Tutorial](http://img.youtube.com/vi/ZAO0yXupIIE/0.jpg)](https://www.youtube.com/watch?v=ZAO0yXupIIE)
 
 ## 🔒 Security
 
