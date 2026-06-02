@@ -85,10 +85,6 @@
 - [Cosden Solutions - YouTube Channel](https://www.youtube.com/@cosdensolutions)
 - [React Course - Coding Addict](https://www.codingaddict.io/courses/enrolled/2406393)
 
-### ✅ Vue
-
-- [Vue JS 2 - The Complete Guide - Udemy Course](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-
 ## 📦 Nx Monorepos
 
 - [Nx Tutorial Video](https://www.youtube.com/watch?v=ZAO0yXupIIE)
@@ -105,6 +101,9 @@
 ## 🏛️ System Design
 
 - [ByteByteGo - YouTube Channel](https://www.youtube.com/@ByteByteGo)
+
+## ✨ AI
+- [Anthropic Skilljar](https://anthropic.skilljar.com/)
 
 ## 🧩 Coding Exercises
 
